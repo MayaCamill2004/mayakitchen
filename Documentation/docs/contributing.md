@@ -9,4 +9,4 @@ If you would like to contribute to the "Maya's Kitchen" API project, follow thes
 5. Commit your changes and push them to your fork.
 6. Submit a pull request to the main repository.
 
-Thank you for considering contributing to "Maya's Kitchen" API! We welcome any contributions, whether it's bug fixes, feature additions, or documentation improvements.
+Thank you for considerig contributing to "Maya's Kitchen" API! We welcome any contributions, whether it's bug fixes, feature additions, or documentation improvements.

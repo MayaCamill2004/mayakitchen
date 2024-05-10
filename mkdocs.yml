@@ -14,4 +14,4 @@ plugins:
   - search
 theme:
   name: readthedocs  
-docs_dir: "docs" 
+docs_dir: "docs"
